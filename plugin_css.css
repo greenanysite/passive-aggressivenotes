@@ -1,0 +1,1255 @@
+.aligncenter,
+div.aligncenter {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.alignleft {
+   float: left;
+}
+
+.alignright {
+   float: right;
+}
+
+.wp-caption {
+   border: 1px solid #ddd;
+   text-align: center;
+   background-color: #f3f3f3;
+   padding-top: 4px;
+   margin: 10px;
+   /* optional rounded corners for browsers that support it */
+   -moz-border-radius: 3px;
+   -khtml-border-radius: 3px;
+   -webkit-border-radius: 3px;
+   border-radius: 3px;
+}
+
+.wp-caption img {
+   margin: 0;
+   padding: 0;
+   border: 0 none;
+}
+
+.wp-caption p.wp-caption-text {
+   font-size: 11px;
+   line-height: 17px;
+   padding: 0 4px 5px;
+   margin: 0;
+}
+
+.comment .collapseicon 
+{
+	width: 					13px;
+	height: 				13px;
+	overflow:				hidden;
+	background-image: 		url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/subthread-open.png);
+}
+
+.collapsed .collapseicon 
+{
+	background-image: 		url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/subthread.png);
+}
+
+input#subscribe
+{
+	width: auto;
+}
+.comment .collapsed
+{
+	display:				none;
+}
+
+
+#commentform textarea {
+	width: 97%;
+}
+
+
+
+
+/* CSS File for Dagon Design Formmailer Script */
+/* http://www.dagondesign.com */
+
+/* COLOR/BORDERS CSS */
+
+form.ddfm h1,
+form.ddfm h2 {
+	color: #606060;
+}
+
+form.ddfm legend, 
+form.ddfm label, 
+form.ddfm label.fmtextlblwide {
+	color: #606060;
+}
+
+form.ddfm .fmcheck p, 
+form.ddfm .fmradio p,
+form.ddfm textarea, 
+form.ddfm .fmfullblock, 
+form.ddfm .fmhalfblock, 
+form.ddfm .fmselect, 
+form.ddfm input.fmtext,
+form.ddfm input.fmdate,
+form.ddfm input.fmverify,
+form.ddfm textarea.fmtextwide,
+form.ddfm .submit,
+form.ddfm .credits {
+	color: #404040;
+}
+
+form.ddfm .required {
+	color: #FF0000;
+}
+
+.ddfmerrors {
+	color: #FF0000;
+}
+
+/* TEXT CSS */
+
+.ddfmwrap {
+	font-size: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+form.ddfm h1,
+form.ddfm h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+	margin: 0 0 10px 0;
+	padding: 0;
+}
+
+
+form.ddfm h1 {
+	font-size: 140%;
+}
+
+form.ddfm h2 {
+	font-size: 115%;
+}
+
+form.ddfm legend, 
+form.ddfm label, 
+form.ddfm label.fmtextlblwide {
+	font-size: 100%;
+	font-weight: bold;
+}
+
+form.ddfm .credits {
+	font-size: 90%;
+}
+
+form.ddfm legend {
+	font-size: 110%;
+}
+
+.ddfmerrors {
+	font-weight: bold;
+}
+
+
+
+
+/* STRUCTURE CSS */
+
+.ddfmwrap {
+	margin: 15px auto 15px auto;
+	width: 450px;
+}
+
+.ddfmwrap p.fieldwrap {
+	padding: 1px;
+	margin: 1px;
+	clear: left;
+}
+
+form.ddfm {
+	text-align: left;
+	padding: 10px;
+	width: 430px; 
+}
+
+form.ddfm fieldset {
+	padding: 0 10px 2px 10px;
+	margin: 0 0 13px 0;
+	display: block;
+}
+
+form.ddfm legend {
+	padding: 0 6px 0 6px;
+	margin: 0 0 0 10px;	 
+}
+
+form.ddfm label {
+	display: block; 
+	float: left; 
+	width: 26%; 
+	text-align: right;
+	margin: 0 10px 0 0; 
+	padding-bottom: 15px;
+	clear: left;  
+}
+
+form.ddfm label.fmtextlblwide {
+	display: block;  
+	float: left; 
+	text-align: left;
+	margin: 0 10px 0 1px; 
+	padding-bottom: 8px; 
+	width: 100%;
+}
+
+form.ddfm select.fmselect {
+	float: left; 
+	display: block;
+	width: 65%; 
+	margin-bottom: 15px;  
+	padding: 3px; 
+}
+
+form.ddfm .fmcheck {
+	width: 65%; 
+	float: left;
+	display: block;  
+	margin-bottom: 15px;
+}
+
+form.ddfm .fmradio {
+	width: 65%;
+	float: left;
+	display: block;
+	margin-bottom: 15px;
+}
+
+form.ddfm .fmcheck p {
+	padding: 0;
+	margin: 0 0 5px 0;
+	line-height: 140%;
+}
+
+form.ddfm .fmradio p {
+	padding: 0;
+	margin: 0 0 5px 0;
+	line-height: 140%;
+}
+
+form.ddfm textarea {
+	float: left; 
+	position: relative;
+	width: 65%;
+	margin-bottom: 15px;
+	padding: 3px;
+}
+
+
+/*
+	display: block; 
+	float: left; 
+	width: 26%; 
+	text-align: right;
+	margin: 0 10px 0 0; 
+	padding-bottom: 15px;
+	clear: left;  */
+
+form.ddfm .fmfullblock {
+	padding-left: 0px;
+	float: left; 
+	width: 100%;
+	margin-bottom: 13px;
+	display: block;
+}
+
+form.ddfm .fmhalfblock {
+	width: 65%;
+	padding-left: 29%;
+	margin-bottom: 13px;
+	float: left; 
+	display: block;
+}
+
+form.ddfm input.fmverify {
+	float: left; 
+	width: 22%;
+	margin-bottom: 15px; 
+	padding: 3px;
+	position: relative;
+	display: block;
+}
+
+form.ddfm img {
+	margin: 1px 0 0 10px; 
+    float: left;
+}
+
+form.ddfm input.fmfile,
+form.ddfm input.fmtext {
+	float: left; 
+	display: block;
+	width: 65%;
+	margin-bottom: 15px;  
+	padding: 3px;
+}
+
+form.ddfm input.fmdate {
+	float: left; 
+	display: block;
+	width: 35%;
+	margin-bottom: 15px;  
+	padding: 3px;
+}
+
+form.ddfm textarea.fmtextwide {
+	display: block;
+	float: left;
+	width: 93%;
+	margin-right: 2px;
+	margin-bottom: 15px; 
+	padding: 3px;
+}
+
+form.ddfm .credits {
+	text-align: right;
+	margin-top: 7px;
+	width: 97%;
+}
+
+form.ddfm .submit {
+	text-align: right;
+	clear: both; 
+	width: 97%;
+}
+
+.ddfmwrap .ddfmerrors {
+	display: block; 
+	float: left; 
+	width: 27%; 
+	text-align: right;
+	margin: 0 10px 0 0; 
+	padding-bottom: 15px;
+}
+
+.ddfmwrap .errorlist {
+	float: left; 
+	display: block;
+	width: 65%;
+	margin-bottom: 15px;  
+	padding: 3px;
+	text-align: left;
+}
+
+.ddfmwrap .recaptcha {
+	width: 100%;
+	text-align: right;
+	clear: both; 
+	height: 120px;
+	margin-right: 7px;
+	padding-bottom: 10px;
+}
+
+.ddfmwrap .recaptcha-inner {
+	float: right;
+	margin-right: 3px;
+}
+
+
+/* DATE SELECTION */
+
+/* the div that holds the date picker calendar */
+.dpDiv {
+	}
+
+
+/* the table (within the div) that holds the date picker calendar */
+.dpTable {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: center;
+	color: #404040;
+	background-color: #F4F4F4;
+	border: 1px solid #999999;
+	}
+
+
+/* a table row that holds date numbers (either blank or 1-31) */
+.dpTR {
+	}
+
+
+/* the top table row that holds the month, year, and forward/backward buttons */
+.dpTitleTR {
+	}
+
+
+/* the second table row, that holds the names of days of the week (Mo, Tu, We, etc.) */
+.dpDayTR {
+	}
+
+
+/* the bottom table row, that has the "This Month" and "Close" buttons */
+.dpTodayButtonTR {
+	}
+
+
+/* a table cell that holds a date number (either blank or 1-31) */
+.dpTD {
+	border: 1px solid #ece9d8;
+	}
+
+
+/* a table cell that holds a highlighted day (usually either today's date or the current date field value) */
+.dpDayHighlightTD {
+	background-color: #CCCCCC;
+	border: 1px solid #AAAAAA;
+	}
+
+
+/* the date number table cell that the mouse pointer is currently over (you can use contrasting colors to make it apparent which cell is being hovered 
+over) */
+.dpTDHover {
+	background-color: #888888;
+	border: 1px solid #888888;
+	cursor: pointer;
+	color: #000000;
+	}
+
+
+/* the table cell that holds the name of the month and the year */
+.dpTitleTD {
+	}
+
+
+/* a table cell that holds one of the forward/backward buttons */
+.dpButtonTD {
+	}
+
+
+/* the table cell that holds the "This Month" or "Close" button at the bottom */
+.dpTodayButtonTD {
+	}
+
+
+/* a table cell that holds the names of days of the week (Mo, Tu, We, etc.) */
+.dpDayTD {
+	background-color: #C0C0C0;
+	border: 1px solid #AAAAAA;
+	color: white;
+	}
+
+
+/* additional style information for the text that indicates the month and year */
+.dpTitleText {
+	font-size: 12px;
+	color: #555555;
+	font-weight: bold;
+	}
+
+
+/* additional style information for the cell that holds a highlighted day (usually either today's date or the current date field value) */ 
+.dpDayHighlight {
+	color: #666666;
+	font-weight: bold;
+	}
+
+
+/* the forward/backward buttons at the top */
+.dpButton {
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: gray;
+	background: #DDDDDD;
+	font-weight: bold;
+	padding: 0px;
+	}
+
+
+/* the "This Month" and "Close" buttons at the bottom */
+.dpTodayButton {
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: gray;
+	background: #DDDDDD;
+	font-weight: bold;
+	}
+
+
+
+
+div.sociable { margin: 16px 0; }
+
+span.sociable_tagline { position: relative; }
+span.sociable_tagline span { display: none; width: 14em; }
+span.sociable_tagline:hover span {
+	position: absolute;
+	display: block;
+	top: -5em;
+	background: #ffe;
+	border: 1px solid #ccc;
+	color: black;
+	line-height: 1.25em;
+}
+.sociable span {
+	display: block;
+}
+.sociable ul {
+	display: inline;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+.sociable ul li {
+	background: none;
+	display: inline;
+	list-style-type: none;
+	margin: 0;
+	padding: 1px;
+}
+.sociable ul li:before { content: ""; }
+.sociable img {
+	float: none;
+	width: 50px;
+	height: 67px;
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+.sociable-hovers {
+	opacity: .8;
+	-moz-opacity: .8;
+	filter: alpha(opacity=80);
+}
+.sociable-hovers:hover {
+	opacity: 1;
+	-moz-opacity: 1;
+	filter: alpha(opacity=100);
+}
+
+
+
+
+#lightbox{
+	position: absolute;
+	left: 0;
+	width: 100%;
+	z-index: 100;
+	text-align: center;
+	line-height: 0;
+	}
+
+#lightbox a img{ border: none; }
+
+#outerImageContainer{
+	position: relative;
+	background-color: #fff;
+	width: 250px;
+	height: 250px;
+	margin: 0 auto;
+	}
+
+#imageContainer{
+	padding: 10px;
+	}
+
+#loading{
+	position: absolute;
+	top: 40%;
+	left: 0%;
+	height: 25%;
+	width: 100%;
+	text-align: center;
+	line-height: 0;
+	}
+#hoverNav{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	z-index: 10;
+	}
+#imageContainer>#hoverNav{ left: 0;}
+#hoverNav a{ outline: none;}
+
+#prevLink, #nextLink{
+	width: 49%;
+	height: 100%;
+	background: transparent url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/plugins/wordpress-flickr-manager/images/blank.gif) no-repeat; /* Trick IE into showing hover */
+	display: block;
+	}
+#prevLink { left: 0; float: left;}
+#nextLink { right: 0; float: right;}
+#prevLink:hover, #prevLink:visited:hover { background: url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/plugins/wordpress-flickr-manager/images/prevlabel.gif) left 50% no-repeat; }
+#nextLink:hover, #nextLink:visited:hover { background: url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/plugins/wordpress-flickr-manager/images/nextlabel.gif) right 50% no-repeat; }
+
+/*** START : next / previous text links ***/
+#nextLinkText, #prevLinkText{
+color: #FF9834;
+font-weight:bold;
+text-decoration: none;
+}
+#nextLinkText{
+display: none !important;
+}
+#prevLinkText{
+display: none !important;
+}
+/*** END : next / previous text links ***/
+/*** START : added padding when navbar is on top ***/
+
+.ontop #imageData {
+    padding-top: 5px;
+}
+
+/*** END : added padding when navbar is on top ***/
+
+#imageDataContainer{
+	font: 10px Verdana, Helvetica, sans-serif;
+	background-color: #fff;
+	margin: 0 auto;
+	line-height: 1.4em;
+	overflow:hidden;
+	}
+
+#imageData{
+	padding:0 10px;
+	}
+#imageData #imageDetails{ width: 70%; float: left; text-align: left; }	
+#imageData #caption{ font-weight: bold;	}
+#imageData #numberDisplay{ display: block; clear: left; padding-bottom: 1.0em;	}
+#imageData #bottomNavClose{ width: 66px; float: right;  padding-bottom: 0.7em;	}
+#imageData #helpDisplay {clear: left; float: left; display: block; }
+
+#overlay{
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 90;
+	width: 100%;
+	height: 500px;
+	background-color: #000;
+	display: none;
+	}
+	
+
+.clearfix:after {
+	content: "."; 
+	display: block; 
+	height: 0; 
+	clear: both; 
+	visibility: hidden;
+	}
+
+* html>body .clearfix {
+	display: inline-block; 
+	width: 100%;
+	}
+
+* html .clearfix {
+	/* Hides from IE-mac \*/
+	height: 1%;
+	/* End hide from IE-mac */
+	}	
+	
+
+
+
+
+/*
++----------------------------------------------------------------+
+|																							|
+|	WordPress 2.7 Plugin: WP-EMail 2.40										|
+|	Copyright (c) 2008 Lester "GaMerZ" Chan									|
+|																							|
+|	File Written By:																	|
+|	- Lester "GaMerZ" Chan															|
+|	- http://lesterchan.net															|
+|																							|
+|	File Information:																	|
+|	- E-Mail CSS Style																|
+|	- wp-content/plugins/wp-email/email-css.css							|
+|																							|
++----------------------------------------------------------------+
+*/
+
+.wp-email P {
+	text-align: left;
+}
+.wp-email label {
+  font-weight: bold;
+}
+.wp-email-loading {
+	display: none;
+	text-align: center;
+	height: 16px;
+}
+.wp-email-image {
+	border: 0px;
+}
+.TextField {
+}
+.Button {
+}
+#wp-email-required {
+  font-weight: bold;
+}
+#wp-email-button {
+  text-align: center;
+}
+#wp-email-popup { 
+	padding: 1em 1em 0;
+}
+
+
+
+#lwp_main{display:none;}#lwpnet_main{display:none;}#lwp_wijit_container{display:none;}
+
+
+
+
+/* if (!(styles conveniently stolen from sources named or WordPress)) { 
+		styles created by Ronald Huereca;
+ 	 }
+Edit below at your own risk of cataclysmic failure */
+.edit-comment-admin-links, .edit-comment-user-link {
+	display: block;
+}
+.edit-comment-admin-links a, .ajax-edit-time-left{
+	display: block;
+	font-size: 12px;
+	padding: 2px 0px;
+	padding-left: 20px;
+	float: left;
+	margin-right: 10px;
+}
+.edit-comment-admin-links-no-icon a, .ajax-edit-time-left-no-icon{
+	display: inline;
+	float: none;
+	font-size: 12px;
+	padding: 2px 0px;
+}
+.ajax-edit-time-left {
+	padding-left: 0;
+}
+.clearfix:after { /* from http://blue-anvil.com/archives/experiments-with-floats-whats-the-best-method-of-clearance*/
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+/* Begin Images */
+.edit-comment-admin-links a.edit-comment {
+	background:url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/plugins/images/wp-ajax-edit-comments/edit.png) left center no-repeat;
+}
+.edit-comment-admin-links a.moderate-comment {
+	background:url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/wp-ajax-edit-comments/tag_red.png) left center no-repeat;
+}
+.edit-comment-admin-links a.approve-comment {
+	background:url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/wp-ajax-edit-comments/yes.png) left center no-repeat;
+}
+.edit-comment-admin-links a.delete-comment {
+	background:url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/wp-ajax-edit-comments/delete.png) left center no-repeat;
+}
+.edit-comment-admin-links a.spam-comment {
+	background:url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/wp-ajax-edit-comments/minus.png) left center no-repeat;
+}
+.edit-comment-admin-links a.delink-comment {
+	background:url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/wp-ajax-edit-comments/cancel.png) left center no-repeat;
+}
+.edit-comment-admin-links a, .edit-comment-user-link a, .edit-comment-admin-links-no-icon a {
+	text-decoration: none;
+}
+/* Errors */
+li.ajax-delete, div.ajax-delete { background: #F33; } /* todo Doesn't work for .alt comments */
+li.ajax-approve, div.ajax-approve { background: #04cd33; }
+li.ajax-unapprove, div.ajax-unapprove { background: #F96; }
+
+
+
+
+.dd_post_share{
+	padding:0px;
+	margin-bottom:6px;
+}
+
+.dd_post_share_left{
+	float:left;
+}
+
+.dd_post_share_right{
+	float:right;
+}
+
+.dd_buttons{
+}
+
+.dd_button{
+	float:left;
+	padding:4px;
+}
+
+.dd_button_v{
+	padding:4px;
+}
+
+/** post comments style **/
+#dd_comments{
+	clear:both !important;
+    width:50px;
+    height:60px;
+    font-family:arial;
+}
+
+#dd_comments a:link, #dd_comments a:visited, #dd_comments a:active, #dd_comments a:hover {
+    text-decoration:none;
+}
+
+#dd_comments .clcount{
+	background-image:url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/image/comments-count.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+    text-align:center;
+	color:#444444;
+	display:block;
+	font-size:17px;
+	height:34px;
+	padding:4px 0;
+	position:relative;
+	text-align:center;
+	width:50px;
+}
+
+#dd_comments .ccount{
+	color:#444444;
+	font-size:17px;
+	text-align:center;
+	text-decoration:none;
+}
+
+#dd_comments .cmsg{
+	display:block;
+	font-size:9px;
+	left:2px;
+	line-height:10px;
+	position:absolute;
+	top:23px;
+}
+
+
+#dd_comments .clink{
+	background-image:url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/image/comments-link.png); 
+    background-repeat: no-repeat;
+    text-align:center;
+	height:16px;
+	margin-top:3px;
+	padding:0;
+	text-align:center;
+	width:50px;
+	display:block;
+}
+
+/** mail this style **/
+#dd_mailthis{
+	clear:both !important;
+    width:50px;
+background: #DDD url('/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/email.png') repeat/repeat-x/repeat-y/no-repeat scroll/fixed top/center/bottom/x-%/x-pos left/center/right/y-%/y-pos;
+    height:60px;
+    font-family:arial;
+}
+
+#dd_mailthis a:link, #dd_mailthis a:visited, #dd_mailthis a:active, #dd_mailthis a:hover {
+    text-decoration:none;
+}
+
+#dd_mailthis .clcount{
+	background-image:url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/email_small.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+    text-align:center;
+	color:#444444;
+	display:block;
+	font-size:16px;
+	height: 42px;
+	padding: 0;
+	position:relative;
+	text-align:center;
+	width:50px;
+	border: 1px solid #AAA;
+}
+
+#dd_mailthis .ccount{
+	color:#444444;
+	font-size:22px;
+	text-align:center;
+	text-decoration:none;
+}
+
+#dd_mailthis .cmsg{
+	display:block;
+	font-size:9px;
+	left:2px;
+	line-height:10px;
+	position:absolute;
+	top:23px;
+}
+
+
+#dd_mailthis .clink{
+	background-color: #DDD;
+    text-align:center;
+	height:20px;
+	margin-top:3px;
+	padding:0;
+	text-align:center;
+	width:50px;
+	display:block;
+	border: 1px solid #AAA;
+}
+
+/** Facebook css override **/
+.FBConnectButton_Small, .FBConnectButton_RTL_Small {
+	background-position:-5px -232px !important;
+	border-left:1px solid #1a356e;
+	width:54px;
+}
+.FBConnectButton_Small .FBConnectButton_Text {
+	margin-left:12px!important;
+}
+
+
+.dd-digg-ajax-load,.dd-reddit-ajax-load,.dd-dzone-ajax-load,.dd-ybuzz-ajax-load,
+.dd-twitter-ajax-load,.dd-fbshare-ajax-load,.dd-fblike-ajax-load,.dd-delicious-ajax-load,
+.dd-sphinn-ajax-load,.dd-gbuzz-ajax-load,.dd-fbshareme-ajax-load,.dd-tweetmeme-ajax-load,
+.dd-linkedin-ajax-load{
+	background-image:url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/plugins/digg-digg/image/ajax-loader.gif);
+    background-repeat: no-repeat;
+	background-position: center ;
+	width:50px;
+	height:60px;
+}
+
+.dd_delicious{
+	display:block; 
+	color:#000; 
+	font:normal 16px arial; 
+	text-decoration:none; 
+	width:50px; 
+	height:60px; 
+	text-align:center;
+}
+
+.dd_delicious a:link, .dd_delicious a:visited, .dd_delicious a:active, .dd_delicious a:hover{
+    text-decoration:none;
+    color:#000;
+}
+
+.dd_delicious_normal_image{
+	background-image:url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/plugins/digg-digg/image/delicious.png); 
+    background-repeat: no-repeat;
+    text-align:center;
+	height:60px;
+	margin-top:3px;
+	padding:0;
+	text-align:center;
+	width:50px;
+	display:block;
+}
+
+
+.dd_delicious_compact_image{
+	background-image:url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/plugins/digg-digg/image/delicious-compact.png); 
+    background-repeat: no-repeat;
+    text-align:center;
+	height:22px;
+	margin-top:3px;
+	padding:0;
+	text-align:center;
+	width:50px;
+	display:block;
+}
+
+.dd_comments {
+	background-image:url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/plugins/digg-digg/image/comments-link.png); 
+    background-repeat: no-repeat;
+    text-align:center;
+	height:16px;
+	margin-top:3px;
+	padding:0;
+	text-align:center;
+	width:50px;
+	display:block;
+}
+
+
+.dd_button a:link,
+.dd_button a:visited,
+.dd_button a:active{
+	text-decoration:none;
+	color:#000000;
+}
+
+#dd_ajax_float{
+	padding:2px 0px;
+	text-align:center;
+	line-height:16px;
+	font-size:10px;
+	font-family:Arial; 
+	display:none;
+}
+
+.dd_post_share{
+	padding:0px;
+	margin-bottom:6px;
+}
+
+.dd_post_share_left{
+	float:left;
+}
+
+.dd_post_share_right{
+	float:right;
+}
+
+.dd_buttons img{
+	border:none;
+	border-width:0px;
+	border-color:#000000;
+	border-style:none;
+}
+
+#dd_name{
+	color:#A9A9A9;
+	font-size:0.5em;
+	text-align:center;
+	margin:6px 0 4px 0;
+	padding:0;
+	line-height:0px;
+}
+
+#dd_name a:link, #dd_name a:visited, #dd_name a:active {
+    text-decoration:none;
+    color:#A9A9A9;
+    border:0;
+}
+
+#dd_name a:hover {
+    text-decoration:underline;
+    color:#A9A9A9;
+    border:0;
+}
+
+.dd_button{
+	float:left;
+	padding:4px;
+}
+
+.dd_button_v{
+	padding:2px 4px;
+}
+
+.dd_button_spacer{
+	padding-top:8px;
+}
+
+#dd_comments{
+	clear:both !important;
+    width:50px;
+    height:60px;
+    font-family:arial;
+}
+
+#dd_comments a:link, #dd_comments a:visited, #dd_comments a:active, #dd_comments a:hover {
+    text-decoration:none;
+}
+
+#dd_comments .clcount{
+	background-image:url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/plugins/digg-digg/image/comments-count.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+    text-align:center;
+	color:#444444;
+	display:block;
+	font-size:20px;
+	height:34px;
+	padding:4px 0;
+	position:relative;
+	text-align:center;
+	width:50px;
+	line-height:24px;
+}
+
+#dd_comments .ccount{
+	color:#444444;
+	font-size:17px;
+	text-align:center;
+	text-decoration:none;
+}
+
+#dd_comments .clink{
+	background-image:url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/plugins/digg-digg/image/comments-link.png); 
+    background-repeat: no-repeat;
+    text-align:center;
+	height:16px;
+	margin-top:3px;
+	padding:0;
+	text-align:center;
+	width:50px;
+	display:block;
+}
+
+/******************Extra Services*****************/
+.dd_button_extra_v{
+	padding:1px 4px;
+}
+
+.mail_it_compact {
+	background-image:url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/plugins/digg-digg/image/mail_it.png);
+	width: 74px;
+	height: 20px;
+}
+.mail_it_link {
+	width: 74px;
+	height: 20px;
+	display: block;
+}
+
+.st_email_custom{
+	background-image:url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/plugins/digg-digg/image/email.png);
+    background-repeat: no-repeat;
+    background-position: 3px 4px;
+	padding: 2px 4px 3px;
+	border: 1px solid #DDDDDD;
+	-moz-border-radius: 2px;
+	cursor:pointer;
+	margin-bottom:2px;
+}
+
+#dd_print_button{
+	background-image:url(/web/20160307120557im_/http://cdn.passiveaggressivenotes.com/wp-content/plugins/digg-digg/image/print.png);
+    background-repeat: no-repeat;
+    background-position: 3px 2px;
+	padding: 1px 4px 3px;
+	border: 1px solid #DDDDDD;
+	-moz-border-radius: 2px;
+	cursor:pointer;
+	margin-bottom:2px;
+}
+
+#dd_email_text{
+	padding:0 0 0 18px;
+	font-size:10px;
+}
+
+#dd_print_text{
+	padding:0 0 0 14px;
+	font-size:10px;
+}
+
+#dd_print_text a:link, #dd_print_text a:visited, #dd_print_text a:active {
+	color:#000;
+    text-decoration:none;
+}
+
+#dd_print_text a:hover{
+	color:#0000FF;
+	text-decoration:underline;
+}
+
+.dd_post_share {
+	height: 25px;
+	width: 500px;
+	overflow: visible;
+}
+
+/**
+ * WordPress 2.8 Plugin: WP-EMail 2.50
+ * Copyright (c) 2009 Lester "GaMerZ" Chan
+ *
+ * File Written By:
+ * - Lester "GaMerZ" Chan
+ * - http://lesterchan.net
+ *
+ * File Information:
+ * - E-Mail CSS Style
+ * - wp-content/plugins/wp-email/email-css.css
+ */
+
+.wp-email P {
+	text-align: left;
+}
+.wp-email label {
+  font-weight: bold;
+}
+.wp-email-loading {
+	display: none;
+	text-align: center;
+	height: 16px;
+}
+.wp-email-image {
+	border: 0px;
+}
+.TextField {
+}
+.Button {
+}
+#wp-email-required {
+  font-weight: bold;
+}
+#wp-email-button {
+  text-align: center;
+}
+#wp-email-popup {
+	padding: 1em 1em 0;
+}
+
+
+/*
+ * WP-Paginate - WordPress Pagination Function
+ * Revision: $Id: wp-paginate.css 286636 2010-09-08 00:11:23Z emartin24 $
+ * Copyright (c) 2010 Eric Martin http://www.ericmmartin.com/projects/wp-paginate/
+ */
+.wp-paginate {padding:0; margin:0;}
+.wp-paginate li {display:inline; list-style:none;}
+.wp-paginate a {background:#ddd; border:1px solid #ccc; color:#666; margin-right:4px; padding:3px 6px; text-align:center; text-decoration:none;}
+.wp-paginate a:hover, .wp-paginate a:active {background:#ccc; color:#888;}
+.wp-paginate .title {color:#555; margin-right:4px;}
+.wp-paginate .gap {color:#999; margin-right:4px;}
+.wp-paginate .current {color:#fff; background:#5f87ae; border:1px solid #89adcf; margin-right:4px; padding:3px 6px;}
+.wp-paginate .page {}
+.wp-paginate .prev, .wp-paginate .next {}
+
+/* style overrides for comments pagination */
+.wp-paginate-comments {}
+.wp-paginate-comments li {}
+.wp-paginate-comments a {}
+.wp-paginate-comments a:hover, .wp-paginate-comments a:active {}
+.wp-paginate-comments .title {}
+.wp-paginate-comments .gap {}
+.wp-paginate-comments .current {}
+.wp-paginate-comments .page {}
+.wp-paginate-comments .prev, .wp-paginate-comments .next {}
+
+
+/*
+     FILE ARCHIVED ON 12:05:57 Mar 07, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:43:14 Feb 06, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.619
+  exclusion.robots: 0.059
+  exclusion.robots.policy: 0.048
+  esindex: 0.011
+  cdx.remote: 1049.097
+  LoadShardBlock: 59.685 (3)
+  PetaboxLoader3.datanode: 71.776 (4)
+  PetaboxLoader3.resolve: 42.982 (2)
+  load_resource: 59.48
+*/
