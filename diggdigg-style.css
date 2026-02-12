@@ -11,7 +11,7 @@
 .dd-twitter-ajax-load,.dd-fbshare-ajax-load,.dd-fblike-ajax-load,.dd-delicious-ajax-load,
 .dd-sphinn-ajax-load,.dd-gbuzz-ajax-load,.dd-fbshareme-ajax-load,.dd-tweetmeme-ajax-load,
 .dd-linkedin-ajax-load, .dd-google1-ajax-load{
-	background-image:url(/web/20160307120556im_/http://www.passiveaggressivenotes.com/wp-content/plugins/digg-digg/image/ajax-loader.gif);
+	background-image:url(ajax-loader.gif);
     background-repeat: no-repeat;
 	background-position: center ;
 	width:50px;
@@ -34,7 +34,7 @@
 }
 
 .dd_delicious_normal_image{
-	background-image:url(/web/20160307120556im_/http://www.passiveaggressivenotes.com/wp-content/plugins/digg-digg/image/delicious.png); 
+	background-image:url(delicious.png); 
     background-repeat: no-repeat;
     text-align:center;
 	height:60px;
@@ -47,7 +47,7 @@
 
 
 .dd_delicious_compact_image{
-	background-image:url(/web/20160307120556im_/http://www.passiveaggressivenotes.com/wp-content/plugins/digg-digg/image/delicious-compact.png); 
+	background-image:url(delicious-compact.png); 
     background-repeat: no-repeat;
     text-align:center;
 	height:22px;
@@ -64,7 +64,7 @@
 }
 
 .dd_comments {
-	background-image:url(/web/20160307120556im_/http://www.passiveaggressivenotes.com/wp-content/plugins/digg-digg/image/comments-link.png); 
+	background-image:url(comments-link.png); 
     background-repeat: no-repeat;
     text-align:center;
 	height:16px;
@@ -184,7 +184,7 @@ html{overflow-y:scroll;}
 }
 
 #dd_comments .clcount{
-	background-image:url(/web/20160307120556im_/http://www.passiveaggressivenotes.com/wp-content/plugins/digg-digg/image/comments-count.png);
+	background-image:url(comments-count.png);
     background-repeat: no-repeat;
     background-position: left top;
     text-align:center;
@@ -207,7 +207,7 @@ html{overflow-y:scroll;}
 }
 
 #dd_comments .clink{
-	background-image:url(/web/20160307120556im_/http://www.passiveaggressivenotes.com/wp-content/plugins/digg-digg/image/comments-link.png); 
+	background-image:url(comments-link.png); 
     background-repeat: no-repeat;
     text-align:center;
 	height:16px;
@@ -224,7 +224,7 @@ html{overflow-y:scroll;}
 }
 
 .st_email_custom{
-	background-image:url(/web/20160307120556im_/http://www.passiveaggressivenotes.com/wp-content/plugins/digg-digg/image/email.png);
+	background-image:url(email.png);
     background-repeat: no-repeat;
     background-position: 3px 4px;
 	padding: 2px 4px 3px;
@@ -235,7 +235,7 @@ html{overflow-y:scroll;}
 }
 
 #dd_print_button{
-	background-image:url(/web/20160307120556im_/http://www.passiveaggressivenotes.com/wp-content/plugins/digg-digg/image/print.png);
+	background-image:url(print.png);
     background-repeat: no-repeat;
     background-position: 3px 2px;
 	padding: 1px 4px 3px;
@@ -264,23 +264,3 @@ html{overflow-y:scroll;}
 	color:#0000FF;
 	text-decoration:underline;
 }
-/*
-     FILE ARCHIVED ON 12:05:56 Mar 07, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 00:34:23 Feb 07, 2026.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 0.646
-  exclusion.robots: 0.067
-  exclusion.robots.policy: 0.057
-  esindex: 0.01
-  cdx.remote: 6.788
-  LoadShardBlock: 93.219 (3)
-  PetaboxLoader3.datanode: 106.597 (4)
-  PetaboxLoader3.resolve: 15.436
-  load_resource: 32.48
-*/
