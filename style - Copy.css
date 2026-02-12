@@ -7,7 +7,7 @@ Author:			Eric Rachlin
 Author URI:		http://www.overheardinprovidence.com
 */
 
-body { background: #fff url('corkboard_texture_small.png') repeat; color: #333; font: 62.5% Georgia, "Times New Roman", Times, serif; text-align: left; }
+body { background: #fff url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/corkboard_texture_small.png') repeat; color: #333; font: 62.5% Georgia, "Times New Roman", Times, serif; text-align: left; }
 
 * { padding: 0; margin: 0; }
 
@@ -71,9 +71,9 @@ h2 { font-size: 2.0em; }
 	
 	.posts h2 { margin: 0 0 0.1em 0; line-height: 1.2em; }
 	
-	.pages h2, h2.page_header { margin: 0 0 0.75em 0; padding: 0 0 0.6em 0; background: url('hr_title_sep.gif') 0 100% no-repeat; }
+	.pages h2, h2.page_header { margin: 0 0 0.75em 0; padding: 0 0 0.6em 0; background: url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/hr_title_sep.gif') 0 100% no-repeat; }
 	
-	h2.archive_head { font-weight: bold !important; font-size: 1.4em !important; text-transform: uppercase !important; letter-spacing: normal !important; margin: 0 0 1.8em 0 !important; padding: 0.4em 2px !important; border-top: 3px solid #000 !important; background: url('hr_dot_black.gif') 0 100% repeat-x !important; }
+	h2.archive_head { font-weight: bold !important; font-size: 1.4em !important; text-transform: uppercase !important; letter-spacing: normal !important; margin: 0 0 1.8em 0 !important; padding: 0.4em 2px !important; border-top: 3px solid #000 !important; background: url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/hr_dot_black.gif') 0 100% repeat-x !important; }
 	
 h3 { font-size: 1.0em; text-transform: uppercase; }
 
@@ -91,7 +91,7 @@ h4 { font: italic 1.2em Georgia, "Times New Roman", Times, serif; color: #888; }
 	
 		h4 a:hover { color: #888; text-decoration: underline; }
 	
-	.posts h4 { margin: 0 0 1.25em 0; padding: 0 0 1.0em 0; background: url('hr_title_sep.gif') 0 100% no-repeat; }
+	.posts h4 { margin: 0 0 1.25em 0; padding: 0 0 1.0em 0; background: url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/hr_title_sep.gif') 0 100% no-repeat; }
 
 .aligncenter,
 div.aligncenter {
@@ -204,7 +204,7 @@ text-align: left; padding: 0 0 35px 0; }
 
 #container { width: 1015px; margin: 15px auto 30px; position: relative;}
 
-	#outer_content_box { background: transparent url('dropshadow.png') repeat-y; width: 1015px; text-align: left; float: left; clear: both; }
+	#outer_content_box { background: transparent url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/dropshadow.png') repeat-y; width: 1015px; text-align: left; float: left; clear: both; }
 	
 	#content_box { background: #fff; width: 885px; padding: 10px 0 10px 40px; margin: 0 0 0 36px; text-align: left; float: left; clear: both; }
 	
@@ -235,7 +235,7 @@ text-align: left; padding: 0 0 35px 0; }
 
 #header {
 	width: 1016px; height: 280px;
-	background: transparent url('new_header_2015.png') left top no-repeat;
+	background: transparent url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/new_header_2015.png') left top no-repeat;
 	position: relative;
 	margin-top: 10px;
 }
@@ -269,7 +269,7 @@ text-align: left; padding: 0 0 35px 0; }
 }
 
 #header #header_submit_a_note:hover {
-	background: transparent url('new_header_2015_highlighted.png') -290px -16px no-repeat;
+	background: transparent url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/new_header_2015_highlighted.png') -290px -16px no-repeat;
 }
 
 
@@ -282,7 +282,7 @@ text-align: left; padding: 0 0 35px 0; }
 }
 
 #header #header_troublemaker_hq:hover {
-	background: transparent url('new_header_2015_highlighted.png') -560px -16px no-repeat;
+	background: transparent url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/new_header_2015_highlighted.png') -560px -16px no-repeat;
 }
 
 #header #header_wtf {
@@ -294,7 +294,7 @@ text-align: left; padding: 0 0 35px 0; }
 }
 
 #header #header_wtf:hover {
-	background: transparent url('new_header_2015_highlighted.png') -765px -25px no-repeat;
+	background: transparent url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/new_header_2015_highlighted.png') -765px -25px no-repeat;
 }
 
 #header #header_login {
@@ -306,7 +306,7 @@ text-align: left; padding: 0 0 35px 0; }
 }
 
 #header #header_login:hover {
-	background: transparent url('new_header_2015_highlighted.png') -870px -25px no-repeat;
+	background: transparent url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/new_header_2015_highlighted.png') -870px -25px no-repeat;
 }
 
 #header #header_the_book {
@@ -318,7 +318,7 @@ text-align: left; padding: 0 0 35px 0; }
 }
 
 #header #header_the_book:hover {
-	background: transparent url('new_header_2015_highlighted.png') -420px -62px no-repeat;
+	background: transparent url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/new_header_2015_highlighted.png') -420px -62px no-repeat;
 }
 
 #header #header_contact {
@@ -330,7 +330,7 @@ text-align: left; padding: 0 0 35px 0; }
 }
 
 #header #header_contact:hover {
-	background: transparent url('new_header_2015_highlighted.png') -681px -71px no-repeat;
+	background: transparent url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/new_header_2015_highlighted.png') -681px -71px no-repeat;
 }
 
 #header #header_feed {
@@ -342,7 +342,7 @@ text-align: left; padding: 0 0 35px 0; }
 }
 
 #header #header_feed:hover {
-	background: transparent url('new_header_2015_highlighted.png') -838px -76px no-repeat;
+	background: transparent url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/new_header_2015_highlighted.png') -838px -76px no-repeat;
 }
 
 #header #header_post_it {
@@ -355,7 +355,7 @@ text-align: left; padding: 0 0 35px 0; }
 }
 
 #header #header_content {
-	background: #fff url('new_header_2014.png') -36px -183px no-repeat;;
+	background: #fff url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/new_header_2014.png') -36px -183px no-repeat;;
 	width: 945px;
 	height: 101px;
 	position: absolute;
@@ -363,7 +363,15 @@ text-align: left; padding: 0 0 35px 0; }
 	left: 36px;
 }
 
+#navnav {
+	background: #ddd url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/blog_banner_background.png') repeat-x;
+	width: 100%;
+	height: 38;
+	position: relative;
+}
+
 #navnavinner {
+	background: url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/blog_banner4.png');
 	width: 890px;
 	height: 37px;
 	margin: 0 auto;
@@ -470,11 +478,11 @@ text-align: left; padding: 0 0 35px 0; }
 		#search_form .search_input:focus { border-top: 1px solid #666; border-left: 1px solid #666; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd; }
 
 
-#masthead { width: 770px; /*height: 100px; background: url('logo.gif') no-repeat;*/ /* uncomment the height and background declarations here if you intend to use a graphic in the header instead of the h1 */ }
+#masthead { width: 770px; /*height: 100px; background: url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/logo.gif') no-repeat;*/ /* uncomment the height and background declarations here if you intend to use a graphic in the header instead of the h1 */ }
 
 	/* #masthead a { display: block; width: 770px; height: 100px; } */ /* uncomment this line if you use a graphic in the header - make sure the height of your header graphic is equal to the height declared in this line of code! */
 
-ul#nav2 { list-style: none; width: 750px; padding: 0 10px; background: url('hr_dot_black.gif') repeat-x; border-bottom: 3px solid #000; float: left; clear: both; }
+ul#nav2 { list-style: none; width: 750px; padding: 0 10px; background: url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/hr_dot_black.gif') repeat-x; border-bottom: 3px solid #000; float: left; clear: both; }
 
 	ul#nav2 li { padding: 0.85em 40px 0.7em 0; font: bold 1.4em Helvetica, Arial, sans-serif; text-transform: uppercase; float: left; }
 	
@@ -484,7 +492,7 @@ ul#nav2 { list-style: none; width: 750px; padding: 0 10px; background: url('hr_d
 		
 		ul#nav2 li a.current, ul#nav li a.current:visited, ul#nav li a.current:hover { color: #090; text-decoration: underline; }
 					
-		ul#nav2 li.rss { padding: 0 18px 0 0; background: url('icon_rss.gif') 100% 50% no-repeat; background-position: right;}
+		ul#nav2 li.rss { padding: 0 18px 0 0; background: url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/icon_rss.gif') 100% 50% no-repeat; background-position: right;}
 			
 #header_img { position: relative; margin: 0 0 3.0em 0; border-bottom: 1px solid #000; float: left; clear: both; }
 
@@ -548,7 +556,7 @@ ul#nav2 { list-style: none; width: 750px; padding: 0 10px; background: url('hr_d
 
 a:hover .post_thumbnail { border: #DF0000 1px solid; }
 
-.tagged { padding: 0.4em 0 0 0; background: url('hr_tag_sep.gif') no-repeat; font-size: 1.2em; line-height: 1.6em; color: #888; clear: both; }
+.tagged { padding: 0.4em 0 0 0; background: url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/hr_tag_sep.gif') no-repeat; font-size: 1.2em; line-height: 1.6em; color: #888; clear: both; }
 
 	.tagged a, .tagged a:visited { padding: 0.25em; color: #333; text-decoration: none; }
 	
@@ -567,7 +575,7 @@ a:hover .post_thumbnail { border: #DF0000 1px solid; }
 
 .clear { width: 500px; height: 1px; margin: 0 0 5.0em 0; clear: both; }
 
-.rule { background: url('hr_tag_sep.gif') no-repeat; }
+.rule { background: url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/hr_tag_sep.gif') no-repeat; }
 
 .flat { margin: 0 0 2.0em 0 !important; }
 
@@ -671,7 +679,7 @@ letter-spacing: normal; padding: 5px 10px; color: #000; }
 		
 			li.widget li, li.linkcat li { margin: 0 0 0.7em 0; }
 
-                .widgetbottom { background-image:url('widgetshadow2.png');
+                .widgetbottom { background-image:url(/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/widgetshadow2.png);
                                           background-repeat: no-repeat;
                                           background-postion: center center;
                                 background-color: #ffffff;
@@ -683,68 +691,68 @@ letter-spacing: normal; padding: 5px 10px; color: #000; }
 	.textwidget .adbox4 ul a { color:#000000; }
 	.textwidget .adbox4 li { font-size: 0.85em; margin: 0; }
 
-        #text-1 .widgetbody {  background-image:url('justahelpfulremindersmall2.png');
+        #text-1 .widgetbody {  background-image:url(/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/justahelpfulremindersmall2.png);
                                 background-repeat: no-repeat;
                                 background-position: top center; padding: 50px 0 10px 0; }
 
-        #sidebar #text-110886151 .widgetbody {  background-image:url('greatesthitssmall.png');
+        #sidebar #text-110886151 .widgetbody {  background-image:url(/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/greatesthitssmall.png);
 						               background-repeat: no-repeat;
 						               background-position:  top center; padding: 50px 0 10px 0; }
 
-        #sidebar #text-110886151 .widgetbottom { background-image:url('widgetshadow2.png');
+        #sidebar #text-110886151 .widgetbottom { background-image:url(/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/widgetshadow2.png);
 						               background-repeat: no-repeat;
 						               background-position: center center; padding: 0; height: 14px;}
 
 	    #word-of-the-day p.word_author { text-align: right; }
 
-	    #word-of-the-day .widgetbody {  background-image:url('wordofthedaysmall2.png');
+	    #word-of-the-day .widgetbody {  background-image:url(/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/wordofthedaysmall2.png);
 						        background-repeat: no-repeat;
 						        background-position: top center; padding: 50px 0 10px 0; }
 
-        #popular-posts .widgetbody {  background-image:url('mostpopularsmall2.png');
+        #popular-posts .widgetbody {  background-image:url(/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/mostpopularsmall2.png);
                                 background-repeat: no-repeat;
                                 background-position: top center; padding: 50px 0 10px 0; }
-        #linkcat-9257 .widgetbody {  background-image:url('mostpopularsmall2.png');
-                                background-repeat: no-repeat;
-                                background-position: top center; padding: 50px 0 10px 0; }
-
-        #get-recent-comments .widgetbody { background-image:url('stirringuptroublesmall2.png');
+        #linkcat-9257 .widgetbody {  background-image:url(/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/mostpopularsmall2.png);
                                 background-repeat: no-repeat;
                                 background-position: top center; padding: 50px 0 10px 0; }
 
-        #linkcat-2 .widgetbody {  background-image:url('blogrollsmall2.png');
+        #get-recent-comments .widgetbody { background-image:url(/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/stirringuptroublesmall2.png);
                                 background-repeat: no-repeat;
                                 background-position: top center; padding: 50px 0 10px 0; }
 
-#linkcat-3617 .widgetbody {  background-image:url('kerrysfavoritessmall.png');
+        #linkcat-2 .widgetbody {  background-image:url(/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/blogrollsmall2.png);
+                                background-repeat: no-repeat;
+                                background-position: top center; padding: 50px 0 10px 0; }
+
+#linkcat-3617 .widgetbody {  background-image:url(/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/kerrysfavoritessmall.png);
                         background-repeat: no-repeat;
                         background-position: top center; padding: 50px 0 10px 0; }
 
-#my-favorited-posts .widgetbody { background-image:url('favoritessmall.png');
+#my-favorited-posts .widgetbody { background-image:url(/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/favoritessmall.png);
                         background-repeat: no-repeat;
                         background-position: top center; padding: 50px 0 10px 0; }
 
 #my-favorited-posts .favorites_instruction { font-style: italic; font-size: 11px; padding: 5px 10px 0 10px; }
 #my-favorited-posts .favorites_instruction img { vertical-align: top; }
 
-#linkcat-3606 .widgetbody {  background-image:url('bestoftexassmall.png');
+#linkcat-3606 .widgetbody {  background-image:url(/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/bestoftexassmall.png);
                            background-repeat: no-repeat;
                            background-position: top center; padding: 50px 0 10px 0; }
 
-        #custom-blogroll .widgetbody {  background-image:url('blogrollsmall2.png');
+        #custom-blogroll .widgetbody {  background-image:url(/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/blogrollsmall2.png);
                                 background-repeat: no-repeat;
                                 background-position: top center; padding: 50px 0 10px 0; }
 
 
-      #archives .widgetbody {  background-image:url('archivessmall2.png');
+      #archives .widgetbody {  background-image:url(/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/archivessmall2.png);
                                 background-repeat: no-repeat;
                                 background-position: top center; padding: 50px 0 10px 0; }
 
-      #archive-and-search .widgetbody {  background-image:url('archivessmall2.png');
+      #archive-and-search .widgetbody {  background-image:url(/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/archivessmall2.png);
                                 background-repeat: no-repeat;
                                 background-position: top center; padding: 50px 0 10px 0; }
 
-      #custom-links .widgetbody {  background-image:url('kerrysfavoritessmall.png');
+      #custom-links .widgetbody {  background-image:url(/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/kerrysfavoritessmall.png);
                                 background-repeat: no-repeat;
                                 background-position: top center; padding: 50px 0 10px 0; }
 
@@ -814,7 +822,7 @@ letter-spacing: normal; padding: 5px 10px; color: #000; }
 #wptouch-desktop-switch {
   padding: 15px 15px 30px;
   font-size: 250%;
-  background: url('switch-stripe.png') repeat 0 0;
+  background: url(https://web.archive.org/web/20170602214328im_/http://www.passiveaggressivenotes.com/wp-content/plugins/wptouch-pro/include/images/switch-stripe.png) repeat 0 0;
   color: #ccd8da;
   text-shadow: #000 0 -1px 1px;
   font-weight: bold;
@@ -870,51 +878,51 @@ letter-spacing: normal; padding: 5px 10px; color: #000; }
 				.registered_comment .comment_time a { font: normal 1.1em Verdana, Helvetica, Arial, sans-serif; color: #0060ff; text-decoration: none;  font-weight: bold;}
 			
 .comment_bubble_top {width: 490px; height: 33px;
-background-image: url('comment_bubble_top.gif');
+background-image: url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/comment_bubble_top.gif');
 background-repeat: no-repeat;
 }
 
 .highlighted .comment_bubble_top {width: 490px; height: 33px;
-background-image: url('comment_bubble_top_highlighted.gif');
+background-image: url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/comment_bubble_top_highlighted.gif');
 background-repeat: no-repeat;
 }
 
 .lighted .comment_bubble_top {width: 490px; height: 33px;
-background-image: url('comment_bubble_top_lighted.gif');
+background-image: url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/comment_bubble_top_lighted.gif');
 background-repeat: no-repeat;
 }
 
 
 
 .comment_bubble_middle {width: 490px;
-background-image: url('comment_bubble_middle.gif');
+background-image: url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/comment_bubble_middle.gif');
 background-repeat: repeat-y;
 padding-bottom: 1px;
 }
 
 .highlighted .comment_bubble_middle {width: 490px;
-background-image: url('comment_bubble_middle_highlighted.gif');
+background-image: url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/comment_bubble_middle_highlighted.gif');
 background-repeat: repeat-y;
 }
 
 .lighted .comment_bubble_middle {width: 490px;
-background-image: url('comment_bubble_middle_lighted.gif');
+background-image: url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/comment_bubble_middle_lighted.gif');
 background-repeat: repeat-y;
 }
 
 
 .comment_bubble_bottom {width: 490px; height: 11px;
-background-image: url('comment_bubble_bottom.gif');
+background-image: url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/comment_bubble_bottom.gif');
 background-repeat: no-repeat;
 }
 
 .highlighted .comment_bubble_bottom {width: 490px; height: 11px;
-background-image: url('comment_bubble_bottom_highlighted.gif');
+background-image: url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/comment_bubble_bottom_highlighted.gif');
 background-repeat: no-repeat;
 }
 
 .lighted .comment_bubble_bottom {width: 490px; height: 11px;
-background-image: url('comment_bubble_bottom_lighted.gif');
+background-image: url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/comment_bubble_bottom_lighted.gif');
 background-repeat: no-repeat;
 }
 
@@ -934,7 +942,7 @@ background-repeat: no-repeat;
 	
 			#comment_form .text_input:focus { border-top: 2px solid #666; border-left: 2px solid #666; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd; }
 	
-		#comment_form .form_submit { padding: 0.4em 4px; background: url('submit_bg.gif'); border: 3px double #999; border-top-color: #ccc; border-left-color: #ccc; font: bold 1.4em Georgia, "Times New Roman", Times, serif; cursor: pointer; }
+		#comment_form .form_submit { padding: 0.4em 4px; background: url('/web/20170602214328im_/http://cdn.passiveaggressivenotes.com/wp-content/themes/passive/images/submit_bg.gif'); border: 3px double #999; border-top-color: #ccc; border-left-color: #ccc; font: bold 1.4em Georgia, "Times New Roman", Times, serif; cursor: pointer; }
 		
 		#comment_form p.subscribe-to-comments { font-size: 1.4em; }
 		
